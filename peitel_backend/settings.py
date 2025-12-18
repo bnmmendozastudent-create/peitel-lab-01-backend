@@ -123,5 +123,5 @@ STATIC_URL = 'static/'
 CORS_ALLOW_ALL_ORIGINS = True
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://*.onrender.com",
+    "https://peitel-lab-01-backend.onrender.com",
 ]
